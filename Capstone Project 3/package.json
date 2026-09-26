@@ -1,0 +1,17 @@
+{
+  "name": "capstone-project-3",
+  "version": "1.0.0",
+  "description": "3rd Capstone Project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vibhav Bilgoji",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
